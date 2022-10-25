@@ -1,9 +1,7 @@
 My Name is 
 
 ## :mortar_board: Experience
-- 42Seoul - Cadet
-- Sungkonghoe University - Software Engineering
-- 42Seoul - Cadet
+
 
 ## :medal_military: Skills
 <div align="left">  
