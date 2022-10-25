@@ -1,4 +1,4 @@
-My Name is 
+My Name is Man Je Cho
 
 ## :mortar_board: Experience
 - KH
