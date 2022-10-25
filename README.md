@@ -1,9 +1,10 @@
 ### Hi 👋
 
 My Name is Man Je Cho
+나아지고 있음을 느끼고 싶습니다.
 
 ## :mortar_board: Experience
-- KH
+- KH정보교육원
 
 ## :medal_military: Skills
 <div align="left">
