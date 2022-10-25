@@ -5,7 +5,7 @@ My Name is Man Je Cho
 나아지고 있음을 느끼고 싶습니다
 
 ## :mortar_board: Experience
-- 국제로봇올림피아드 `2009~2013`
+- 국제로봇올림피아드(IROC) `2009~2013`
 - KH정보교육원
 
 ## :medal_military: Skills
