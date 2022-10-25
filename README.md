@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello, there! 👋
 
 My Name is Man Je Cho
 <br><br>
