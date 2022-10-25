@@ -6,7 +6,7 @@ My Name is Man Je Cho
 
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
-- KH정보교육원 `2022~`
+- KH정보교육원 `2022.08~2023.01`
 
 ## :medal_military: Skills
 <div align="left">
