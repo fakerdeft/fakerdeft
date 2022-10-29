@@ -2,7 +2,7 @@
 
 My Name is Man Je Cho
 <br><br>
-나아지고 있음을 느끼고 싶습니다
+꺾이지 않는 마음
 
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
