@@ -8,8 +8,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&theme=vue&card_width=445">
 </p>
-### Hello, there! 👋
 
+### Hello, there! 👋
 My Name is Man Je Cho
 <br><br>
 꺾이지 않는 마음
@@ -17,6 +17,7 @@ My Name is Man Je Cho
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
 - KH정보교육원 `2022.08~2023.01`
+- 우아한테크코스5기 프리코스 `2022.10~2022.12`
             
 ## :1st_place_medal: Skills
 <div align="center">
