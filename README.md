@@ -14,12 +14,14 @@ My Name is Man Je Cho
 <br><br>
 꺾이지 않는 마음
 
+<div align="center>
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
 - KH정보교육원 `2022.08~2023.01`
-
+</div>
+            
 ## :1st_place_medal: Skills
-<div align="left">
+<div align="center">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
