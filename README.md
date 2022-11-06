@@ -14,11 +14,9 @@ My Name is Man Je Cho
 <br><br>
 꺾이지 않는 마음
 
-<div align="center">
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
 - KH정보교육원 `2022.08~2023.01`
-</div>
             
 ## :1st_place_medal: Skills
 <div align="center">
