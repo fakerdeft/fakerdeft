@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=fakerdeft&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=Backend%20Engineer">
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acisliver&show_icons=true&theme=vue">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acisliver&layout=compact&theme=vue&card_width=445">
+</p>
 ### Hello, there! 👋
 
 My Name is Man Je Cho
@@ -23,4 +30,6 @@ My Name is Man Je Cho
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </div>
+
+
 </td><td valign="top" width="33%">
