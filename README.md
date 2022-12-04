@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&theme=vue&card_width=445">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
 </p>
 
 ### Hello, there! 👋
