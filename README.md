@@ -18,7 +18,9 @@ My Name is Man Je Cho
 - 국제로봇올림피아드(IROC) `2009~2013`
 - KH정보교육원 공공데이터 기반 웹 애플리케이션 개발자 양성과정 `2022.08~2023.01`
 - 우아한테크코스5기 프리코스 `2022.10~2022.11`
-            
+- [오픈스퀘어-D] 공공데이터 활용 실습 교육 `2022.11~2022.12`
+- if(kakao)dev2022 컨퍼런스 `2022.12`
+           
 ## :1st_place_medal: Skills
 <div align="center">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
