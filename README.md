@@ -12,7 +12,7 @@
 ### Hello, there! 👋
 My Name is Man Je Cho
 <br><br>
-언제나 낮은 자세로 배우겠습니다
+언제나 낮은 자세로 배우겠습니다!
 
 ## :mortar_board: Experience
 - 국제로봇올림피아드(IROC) `2009~2013`
