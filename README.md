@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
 </p>
 <p align="center">
   <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
