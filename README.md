@@ -22,6 +22,7 @@ My Name is Man Je Cho
 - 우아한테크코스5기 프리코스 `2022.10~2022.11`
 - [오픈스퀘어-D] 공공데이터 활용 실습 교육 `2022.11~2022.12`
 - if(kakao)dev2022 Conference `2022.12`
+- KISA 핀테크아카데미 블록체인 서비스 개발 과정 - 스마트컨트랙트 활용 간편결제 프로그래밍 `2023.03`
            
 ## :1st_place_medal: Skills
 <div align="center">
