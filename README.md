@@ -23,6 +23,7 @@ My Name is Man Je Cho
 - [오픈스퀘어-D] 공공데이터 활용 실습 교육 `2022.11~2022.12`
 - if(kakao)dev2022 Conference `2022.12`
 - KISA 핀테크아카데미 블록체인 서비스 개발 과정 - 스마트컨트랙트 활용 간편결제 프로그래밍 `2023.03`
+- 메타버스 아카데미 2기 `2023.06~2023.11`
            
 ## :1st_place_medal: Skills
 <div align="center">
