@@ -10,7 +10,6 @@
 </p>
 
 ### Hello, there! 👋
-<br>
 언제나 낮은 자세로 배우겠습니다!!
 
 ## :mortar_board: Experience
