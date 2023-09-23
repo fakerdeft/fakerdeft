@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
-</p>
+</p> -->
 
 ### Hello, there! 👋
 안녕하세요 조만제입니다.
