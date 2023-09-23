@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=fakerdeft&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=Backend%20Engineer">
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
-</p>
+</p> -->
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
 </p> -->
