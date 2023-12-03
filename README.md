@@ -44,6 +44,6 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
 
 ## :medal_military: Portfolio
-[포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
+- [포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
 
 </td><td valign="top" width="33%">
