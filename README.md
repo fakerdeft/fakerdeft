@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=fakerdeft&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=Backend%20Engineer">
-</div>
+</div> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
@@ -10,15 +10,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
 </p> -->
 
-# 👋 Hello, there!
+<div align="center">
+  
+### 👋 Hello, there!
 안녕하세요. 개발자 조만제입니다.
 
 언제나 낮은 자세로 배우겠습니다!!
 
-## :mortar_board: Experience
-- 우아한테크코스 5기 프리코스 `2022.10 ~ 2022.11`
-- 메타버스 아카데미 2기 `2023.05 ~ 2023.11`
-- [서울시 성동구 공공서비스 문제 해결 SW개발 공모전] ICT콤플렉스 피우다 프로젝트 `2023.10 ~ 2023.11`
+<br>
+
+### :medal_military: Portfolio
+[포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
+
+<br>
+
+### :mortar_board: Experience
+우아한테크코스 5기 프리코스 `2022.10 ~ 2022.11` <br>
+메타버스 아카데미 2기 `2023.05 ~ 2023.11` <br>
+[서울시 성동구 공공서비스 문제 해결 SW개발 공모전] ICT콤플렉스 피우다 프로젝트 `2023.10 ~ 2023.11`
+
+</div>
 
 <!--
 ## :1st_place_medal: Skills
@@ -44,7 +55,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
 -->
-## :medal_military: Portfolio
-- [포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
 
-</td><td valign="top" width="33%">
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
