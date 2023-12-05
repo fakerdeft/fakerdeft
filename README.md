@@ -12,19 +12,19 @@
 
 <div align="center">
   
-### 👋 Hello, there!
+### 👋 Hello, there! 👋
 안녕하세요. 개발자 조만제입니다.
 
 언제나 낮은 자세로 배우겠습니다!!
 
 <br>
 
-### :medal_military: Portfolio
+### 🎖️ Portfolio 🎖️
 [포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
 
 <br>
 
-### :mortar_board: Experience
+### 🎓 Experience 🎓
 우아한테크코스 5기 프리코스 `2022.10 ~ 2022.11` <br>
 메타버스 아카데미 2기 `2023.05 ~ 2023.11` <br>
 [서울시 성동구 공공서비스 문제 해결 SW개발 공모전] ICT콤플렉스 피우다 프로젝트 `2023.10 ~ 2023.11`
