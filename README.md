@@ -1,28 +1,73 @@
 <!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=fakerdeft&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=Backend%20Engineer">
-</div> -->
+</div>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakerdeft&show_icons=true&count_private=true&hide_border=true">
-</p> -->
+</p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakerdeft&layout=compact&card_width=445">
 </p> -->
 
 <div align="center">
-  
-### 👋 Hello, there! 👋
-안녕하세요. 개발자 조만제입니다.
 
-언제나 낮은 자세로 배우겠습니다!!
+<h4 align="center">🎖️ PORTFOLIO 🎖️</h3>
+<a target="_blank" href="https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4">포트폴리오</a>
+
+<br><br>
+
+<h4 align="center">⚙️ BACKEND ⚙️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6D8B33F?style=flat-square&logo=spring-boot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringSecurity-6D8B33F?style=flat-square&logo=spring-security&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringDataJPA-6D8B33F?style=flat-square&logo=spring-data-jpa&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-Route53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</p>
+
+<h4 align="center">🖌️ FRONTEND 🖌️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/sass-cd6799?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jquery-grey?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+</p>
+
+<h4 align="center">📝 BLOG & SOCIAL 📧</h3>
+<p align="center">
+  <a href="https://afuew.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://afuew.tistory.com/" /></a>&nbsp;
+  <br>
+  <a href="mailto:whaksen123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whaksen123@gmail.com" /></a>
+<!--   <a href="https://www.linkedin.com/in/kyeongsun-park"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyeongsun-park-4b95961b2"/></a> -->
+</p>
 
 <br>
-
-### 🎖️ Portfolio 🎖️
-[포트폴리오](https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4)
-
 <br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+
+
+
+
+
 
 <!--
 ### 🎓 Experience 🎓
@@ -60,6 +105,3 @@
 
 <br>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
