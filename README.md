@@ -25,8 +25,9 @@
   <img src="https://img.shields.io/badge/Spring Boot-6D8B33F?style=flat-square&logo=spring-boot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Security-6D8B33F?style=flat-square&logo=spring-security&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Data JPA-6D8B33F?style=flat-square&logo=spring-data-jpa&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Swagger UI-85EA2D?style=flat-square&logo=swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Swagger UI-85EA2D?style=flat-square&logo=swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp
