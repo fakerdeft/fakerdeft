@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 
-<h4 align="center">🖌️ FRONTEND 🖌️</h3>
+<h4 align="center">🎨 FRONTEND 🎨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
