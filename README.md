@@ -13,7 +13,7 @@
 <div align="center">
 
 <h4 align="center">🎖️ PORTFOLIO 🎖️</h3>
-<a target="_blank" href="https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4">포트폴리오</a>
+<a target="_blank" href="https://decorous-aardvark-bc3.notion.site/53ee070645ac47d6818d64c92e9ec1af?pvs=4">조만제 포트폴리오</a>
 
 <br>
 
