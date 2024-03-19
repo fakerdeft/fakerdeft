@@ -60,15 +60,14 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
   
-<!--
-<h4 align="center">📝 BLOG & SOCIAL 📧</h3>
+<h4 align="center">📝 BLOG & CHANNEL 📧</h3>
 <p align="center">
   <a href="https://afuew.tistory.com/"><img src="http://img.shields.io/badge/-Tistory%20[KR]-black?style=flat-square&logo=tistory&link=https://afuew.tistory.com/" /></a>&nbsp
   <br>
-  <a href="https://velog.io/@afuew/"><img src="http://img.shields.io/badge/-Velog%20[KR]-black?style=flat-square&logo=velog&link=https://velog.io/@afuew/" /></a>&nbsp
-  <br> 
+<!--   <a href="https://velog.io/@afuew/"><img src="http://img.shields.io/badge/-Velog%20[KR]-black?style=flat-square&logo=velog&link=https://velog.io/@afuew/" /></a>&nbsp
+  <br>  -->
   <a href="mailto:whaksen123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whaksen123@gmail.com" /></a>
-<!--   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-4b95961b2"/></a> -->
+  <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-4b95961b2"/></a>
 </p>
 
 <br>
