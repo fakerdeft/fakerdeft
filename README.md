@@ -17,6 +17,10 @@
 
 <br> -->
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=Hits&edge_flat=false"/></a>
+</p>
+
 <h4 align="center">⚙️ BACKEND ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -68,13 +72,6 @@
   <br>  -->
   <a href="mailto:whaksen123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whaksen123@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-4b95961b2"/></a>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=Hits&edge_flat=false"/></a>
 </p>
 
 
