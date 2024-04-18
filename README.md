@@ -23,9 +23,9 @@
 
 <h4 align="center">⚙️ BACKEND ⚙️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6D8B33F?style=flat-square&logo=spring-boot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Security-6D8B33F?style=flat-square&logo=spring-security&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Data JPA-6D8B33F?style=flat-square&logo=spring-data-jpa&logoColor=white"/>&nbsp
@@ -45,11 +45,13 @@
 
 <h4 align="center">🎨 FRONTEND 🎨</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-<!--   <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=jsp&logoColor=white"/></a>&nbsp
 </p>
 
 <h4 align="center">🛠️ IDE & COMMUNICATION 📣</h4>
