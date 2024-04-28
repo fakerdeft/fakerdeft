@@ -24,11 +24,15 @@
 <h4 align="center">⚙️ BACKEND ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e75253?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spring-6D8B33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6D8B33F?style=flat-square&logo=spring-boot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Security-6D8B33F?style=flat-square&logo=spring-security&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Spring Data JPA-6D8B33F?style=flat-square&logo=spring-data-jpa&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
@@ -45,7 +49,6 @@
 
 <h4 align="center">🎨 FRONTEND 🎨</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
