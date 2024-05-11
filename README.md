@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-4b95961b2"/></a>
 </p>
 
-<h4 align="center">🚀 PROJECT 🚀</h3>
+<h4 align="center">⭐ PROJECT ⭐</h3>
 <p align="center">
   <a href="https://coverflow.co.kr">[기업 Q&A 서비스] https://coverflow.co.kr</a>
 </p>
