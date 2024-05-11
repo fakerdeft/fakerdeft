@@ -81,7 +81,7 @@
 
 <h4 align="center">🚀 PROJECT 🚀</h3>
 <p align="center">
-  <a href="https://coverflow.co.kr">기업 Q&A 서비스 Coverflow</a>
+  <a href="https://coverflow.co.kr">[기업 Q&A 서비스] https://coverflow.co.kr</a>
 </p>
 
 </div>
