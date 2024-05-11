@@ -79,18 +79,10 @@
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-4b95961b2"/></a>
 </p>
 
-
-
-
-
-
-
-<!--
-### 🎓 Experience 🎓
-우아한테크코스 5기 프리코스 `2022.10 ~ 2022.11` <br>
-메타버스 아카데미 2기 `2023.05 ~ 2023.11` <br>
-[서울시 성동구 공공서비스 문제 해결 SW개발 공모전] ICT콤플렉스 피우다 프로젝트 `2023.10 ~ 2023.11`
--->
+<h4 align="center">🚀 PROJECT 🚀</h3>
+<p align="center">
+  <a href="https://coverflow.co.kr">기업 Q&A 서비스 Coverflow</a>
+</p>
 
 </div>
 
