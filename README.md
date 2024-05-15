@@ -80,9 +80,10 @@
 </p>
 
 <h4 align="center">⭐ PROJECTS ⭐</h3>
-<p align="center">
-  <a href="https://coverflow.co.kr">[기업 Q&A 서비스] https://coverflow.co.kr</a>
-</p>
+
+|프로젝트 이름|프로젝트 소개|기간|사이트|
+|:---:|:---:|:---:|:---:|
+|Coverflow|기업 Q&A 서비스|2024.01 ~ 진행 중|깃허브: https://github.com/COFLLL  <br> 사이트: https://coverflow.co.kr|
 
 </div>
 
