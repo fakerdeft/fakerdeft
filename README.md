@@ -83,7 +83,7 @@
 
 |이름|소개|기간|링크|
 |:---:|:---:|:---:|:---:|
-|Coverflow|기업 Q&A 서비스|2024.01 ~ 진행 중|깃허브: https://github.com/COFLLL  <br> 사이트: https://coverflow.co.kr|
+|Coverflow|기업 Q&A 서비스|2024.01 ~ 진행 중|깃허브: https://github.com/Team-Coverflow  <br> 사이트: https://coverflow.co.kr|
 
 </div>
 
