@@ -84,7 +84,7 @@
 |이름|소개|기간|링크|
 |:---:|:---:|:---:|:---:|
 |Coverflow|기업 Q&A 서비스|2024.01 ~ 진행 중|깃허브: https://github.com/Team-Coverflow  <br> 사이트: https://coverflow.co.kr|
-|Adregamdi|[한국관광공사 x Kakao] 2024 관광데이터 활용 공모전, <br> 제주도 여행 플래너 앱|2024.06 ~ 진행 중|깃허브: https://github.com/Adregamdi
+|Adregamdi|제주도 여행 플래너 앱|2024.06 ~ 진행 중|깃허브: https://github.com/Adregamdi
 
 </div>
 
