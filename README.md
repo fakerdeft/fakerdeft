@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=jsp&logoColor=white"/></a>&nbsp
 </p>
 
-<!--
 <h4 align="center">🛠️ IDE & COMMUNICATION 📣</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/InteliiJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/></a>&nbsp
@@ -67,9 +66,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JANDI-6D8B33F?style=flat-square&logo=JANDI&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
--->
 
 <!--
 <h4 align="center">📝 BLOG & CHANNEL 📧</h3>
