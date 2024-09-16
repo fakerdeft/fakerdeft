@@ -4,29 +4,23 @@
 
 <h3 align="center"> BACKEND </h3>
 <p align="center">
-  <kbd>
   <img src="https://skillicons.dev/icons?i=java,c,py"/>
   <br>
   <img src="https://skillicons.dev/icons?i=spring,mysql,nodejs,express,aws,githubactions,docker,nginx"/>
   <br>
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
-  </kbd>
 </p>
 
 <h3 align="center"> FRONTEND </h3>
 <p align="center">
-  <kbd>
   <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,nextjs"/>
-  </kbd>
 </p>
 
 <h3 align="center"> TOOL </h3>
 <p align="center">
-  <kbd>
   <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio"/>
   <br>
   <img src="https://skillicons.dev/icons?i=github,postman,notion,figma,discord"/>
-  </kbd>
 </p>
 
 
