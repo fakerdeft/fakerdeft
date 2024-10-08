@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,py"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,nodejs,express,aws,githubactions,docker,nginx"/>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,redis,nodejs,express,aws,githubactions,docker,nginx"/>
   <br>
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
 </p>
