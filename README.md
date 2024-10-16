@@ -13,18 +13,20 @@
 
 <h3 align="center"> FRONTEND </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=jquery,react,nextjs"/>
 </p>
 
 <h3 align="center"> TOOL </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=github,postman,notion,figma,discord"/>
+  <img src="https://skillicons.dev/icons?i=postman,github,figma,notion,discord"/>
 </p>
 
 
-<h3 align="center">🔽 CONTACT 🔽</h3>
+<h3 align="center">⬇ CONTACT ⬇</h3>
 <p align="center">
   <a href="mailto:whaksen123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
