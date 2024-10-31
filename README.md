@@ -4,11 +4,11 @@
 
 <h3 align="center"> BACKEND </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,c"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,c"/>
   <br>
   <img src="https://skillicons.dev/icons?i=spring,mysql,redis,nodejs,express,aws,githubactions,docker,nginx"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=windows,powershell,apple,linux,ubuntu"/>
 </p>
 
 <h3 align="center"> FRONTEND </h3>
