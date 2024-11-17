@@ -25,9 +25,15 @@
   <img src="https://skillicons.dev/icons?i=postman,github,figma,notion,discord"/>
 </p>
 
-
 <h3 align="center">⬇ CONTACT ⬇</h3>
 <p align="center">
   <a href="mailto:whaksen123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+<br>
+
+<!--
+<p align="center">
+<a href="https://solved.ac/profile/whakswp123"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=whakswp123"></a><br>
 </p>
