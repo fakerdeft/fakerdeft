@@ -27,7 +27,7 @@
 
 <h3 align="center">⬇ CONTACT ⬇</h3>
 <p align="center">
-  <a href="mailto:whaksen123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp
+  <a href="mailto:whakswp123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp
   <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
