@@ -1,37 +1,22 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=Hits&edge_flat=false"/></a>
-</p>
+</p> -->
 
-<h3 align="center"> BACKEND </h3>
+<h3 align="center">  </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,c"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,redis,nodejs,express,aws,githubactions,docker,nginx"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,apple,linux,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,githubactions,docker,nginx"/>
 </p>
 
-<h3 align="center"> FRONTEND </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=jquery,react,nextjs"/>
-</p>
+<h3 align="center"> ⭐ HISTORY ⭐ </h3>
+<div align="center">
 
-<h3 align="center"> TOOL </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=postman,github,figma,notion,discord"/>
-</p>
-
-<h3 align="center">⬇ CONTACT ⬇</h3>
-<p align="center">
-  <a href="mailto:whakswp123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/fakerdeft"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-</p>
-
+IT 연합 동아리 YAPP 25기 - **Server** (24.11 ~ )
 <br>
+[한국관광공사 x Kakao] 2024 관광데이터 활용 공모전 **우수상** - **Server** (24.05 ~ 24.11)
+<br>
+메타버스 아카데미 2기 - **Server** (23.04 ~ 23.11)
+
+</div>
 
 <!--
 <p align="center">
