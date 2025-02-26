@@ -10,7 +10,7 @@
 <h3 align="center"> HISTORY </h3>
 <div align="center">
 
-IT 연합 동아리 YAPP 25기 - **Server** (24.11 ~ )
+IT 연합 동아리 YAPP 25기 - **Server** (24.11 ~ 25.03)
 <br>
 [한국관광공사 x Kakao] 2024 관광데이터 활용 공모전 **우수상** - **Server** (24.05 ~ 24.11)
 <br>
