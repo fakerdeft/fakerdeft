@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,githubactions,docker,nginx"/>
 </p>
 
-<h3 align="center"> ⭐ HISTORY ⭐ </h3>
+<h3 align="center"> HISTORY </h3>
 <div align="center">
 
 IT 연합 동아리 YAPP 25기 - **Server** (24.11 ~ )
