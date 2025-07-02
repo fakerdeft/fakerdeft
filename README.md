@@ -7,14 +7,14 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,githubactions,docker,nginx"/>
 </p>
 
-<h3 align="center"> HISTORY </h3>
+<h3 align="center"> EXPERIENCE </h3>
 <div align="center">
 
-IT 연합 동아리 YAPP 25기 - **Server** (24.11 ~ 25.03)
+IT 연합 동아리 YAPP 25기 - **Server**  ``(2024.11 ~ 2025.03)``
 <br>
-[한국관광공사 x Kakao] 2024 관광데이터 활용 공모전 **우수상** - **Server** (24.05 ~ 24.11)
+[한국관광공사 x Kakao] 2024 관광데이터 활용 공모전 **우수상** - **Server**  ``(2024.05 ~ 2024.11)``
 <br>
-메타버스 아카데미 2기 - **Server** (23.04 ~ 23.11)
+메타버스 아카데미 2기 - **Server**  ``(2023.04 ~ 2023.11)``
 
 </div>
 
