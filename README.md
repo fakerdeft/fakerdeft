@@ -4,17 +4,17 @@
 
 <h3 align="center">  </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,githubactions,docker,nginx"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql,redis,aws,githubactions,docker,nginx"/>
 </p>
 
-<h3 align="center"> EXPERIENCE </h3>
+<!-- <h3 align="center"> EXPERIENCE </h3>
 <div align="center">
 
 IT 연합 동아리 YAPP 25기 - **Server**  ``(2024.11 ~ 2025.03)``
 <br>
 [한국관광공사 x Kakao] 2024 관광데이터 활용 공모전 **우수상** - **Server**  ``(2024.05 ~ 2024.11)``
 
-</div>
+</div> -->
 
 <!--
 <p align="center">
