@@ -2,9 +2,9 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffakerdeft&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=Hits&edge_flat=false"/></a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgresql,redis,aws,githubactions,docker,nginx"/>
-</p>
+</p> -->
 
 <h2 align="center"> Experience </h2>
 <div align="center">
